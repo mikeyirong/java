@@ -1,0 +1,52 @@
+Windows平台
+入门
+1.《Windows程序设计》：这本书主要讲的是Windows API的使用，是Windows编程入门书籍。上册涉及到的知识基本上就够用了，时间不充裕的话阅读上册即可。
+ 
+2.《Win32多线程程序设计》：Windows下多线程编程必备
+ 
+3.《Windows核心编程》：Window平台基础知识：消息机制，内存管理，多线程，动态链接库等
+ 
+4.《Windows网络编程》：介绍Windows下各种网络协议的开发和并发处理模型。
+ 
+进阶
+1.《深入浅出MFC》：Windows下编程，MFC虽然有些过时，但其机制还是有学习的价值。重点学习书中提到的MFC 6大机制
+ 
+2.《COM本质论》：COM是Windows构建用户态的重要技术之一，Windows开发必修课，本书对COM的设计动机作了深入阐述
+ 
+3.《深入解析ATL》：ATL全名Active Templete Library，是用C++的模版封装了COM，这本书主要讲的是对源码分析
+ 
+4.《WTL White Paper》：WTL源自微软，基于ATL的一套开源模版库，主要用于界面编程和工具类的使用
+ 
+5.《代码大全》：这边书主要讲的是工程编码规范
+ 
+高级
+1.《深入解析Windows操作系统》：Windows大牛书籍，讲的主要是Windows操作系统的内核原理
+ 
+调试技术
+1.《软件调试》
+ 
+2.《Windows高级调试》
+ 
+3.《windows用户态程序高效排错》
+
+
+Linux平台
+Linux内核
+1.《Linux Kernel Development》/《Linux内核设计与实现》：Robert Love的著作，不厚的一本书，深入浅出地将Linux内核娓娓道来
+ 
+Linux使用和Shell编程
+1.《sed & awk》/《sed与awk》：sed与awk都是Linux下常用的日志分析利器
+ 
+Linux编程
+1.《Beginning Linux Programming》/《Linux程序设计》：老牌的Linux编程入门书
+ 
+2.《Advanced Programming in the Unix Environment》/《Unix环境高级编程》：对Unix编程环境做了细致的总结，涵盖了进程间通讯、网络通讯、文件系统等各方面的知识
+ 
+网络编程
+1.《TCP/IP Illustrated, Volume I》/《TCP/IP详解，卷一》：对理解TCP/IP协议的设计理念和协议细节有显著的帮助。
+ 
+C++开发
+ 
+1.《C++ Primer》：全面学习C++的必备书籍
+2.《Thinking in C++》：了解C++背后的一些机制
+3.《深度探索C++对象模型》：深入了解C++，也是学习COM的必经之路
